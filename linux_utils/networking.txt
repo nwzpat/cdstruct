@@ -1,0 +1,15 @@
+nc - arbitrary TCP and UDP connections and listens
+
+ss - another utility to investigate sockets
+
+netstat - Print network connections, routing tables, interface statistics,
+masquerade connections, and multicast memberships
+
+iptables — administration tool for IPv4 packet filtering and NATiptables —
+administration tool for IPv4 packet filtering and NAT
+
+ip - show / manipulate routing, devices, policy routing and tunnels
+
+Links:
+[https://www.tecmint.com/linux-network-configuration-and-troubleshooting-commands/]
+
